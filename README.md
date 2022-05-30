@@ -29,7 +29,7 @@ Clumsy bird is a game in which user protect the bird from collision with pipes a
   
 <h1>🌟 Live link</h1>
   
-<a href="https://clumsy-bird-game.netlify.app/" target="_blank">Click to Play Clumsy Bird</a>
+<a href="https://clumsy-bird-game.netlify.app/" targe t="_blank" >Click to Play Clumsy Bird</a>
   
 <h1>👨‍💻 Tech stack</h1>
 
