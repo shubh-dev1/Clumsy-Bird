@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 <h1>🧐 About this Project</h1>
 <br />
-Clumsy bird is a game in which user protect the bird from collision with pipes and balls that are hurdles for the bird and pass the bird from the gap between the pipes. 
+Clumsy bird is a game in which users protect the bird from a collision with pipes and balls that are hurdles for the bird and pass the bird from the gap between the pipes. 
 <h2 style="text-align:center ; background: black;color: white;">Get Ready Page</h2>
 
   
